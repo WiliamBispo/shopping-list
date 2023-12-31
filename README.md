@@ -5,7 +5,7 @@
 
 https://wiliambispo.github.io/shopping-list/
 
-Shopping-list é uma aplicação web e mobile desenvolvida para auxiliar durante o processo de compras.
+Shopping list é uma aplicação web e mobile desenvolvida para auxiliar durante o processo de compras.
 
 A sua principal função é permitir a adição de produtos, gerando assim uma lista contendo informações como nome do produto, quantidade, preço unitário e o total.
 
